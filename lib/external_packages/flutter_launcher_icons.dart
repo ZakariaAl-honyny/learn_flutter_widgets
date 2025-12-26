@@ -1,0 +1,1 @@
+// for change Flutter Launcher Icons package, you need to add the following code in your pubspec.yaml file:
