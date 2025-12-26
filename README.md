@@ -1,3 +1,2 @@
-"# learn_flutter_widgets"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin git@github.com:ZakariaAl-honyny/learn_flutter_widgets.git git push -u origin main
-"# learn_flutter_widgets"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin git@github.com:ZakariaAl-honyny/learn_flutter_widgets.git git push -u origin main
-"# learn_flutter_widgets" 
+# learn_flutter_widgets
+Learn and Implement Flutter widgets
